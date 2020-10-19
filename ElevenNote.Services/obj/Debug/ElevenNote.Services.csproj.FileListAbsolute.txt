@@ -14,3 +14,9 @@ C:\ElevenFiftyProjects\02_BlueBadge\01_Canvas_Modules\01.Eleven Note Web API\Ele
 C:\ElevenFiftyProjects\02_BlueBadge\01_Canvas_Modules\01.Eleven Note Web API\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\ElevenFiftyProjects\02_BlueBadge\01_Canvas_Modules\01.Eleven Note Web API\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\ElevenFiftyProjects\02_BlueBadge\01_Canvas_Modules\01.Eleven Note Web API\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\ElevenFiftyProjects\02_BlueBadge\01_Canvas_Modules\01.Eleven Note Web API\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\ElevenFiftyProjects\02_BlueBadge\01_Canvas_Modules\01.Eleven Note Web API\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\ElevenFiftyProjects\02_BlueBadge\01_Canvas_Modules\01.Eleven Note Web API\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\ElevenFiftyProjects\02_BlueBadge\01_Canvas_Modules\01.Eleven Note Web API\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\ElevenFiftyProjects\02_BlueBadge\01_Canvas_Modules\01.Eleven Note Web API\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\ElevenFiftyProjects\02_BlueBadge\01_Canvas_Modules\01.Eleven Note Web API\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
